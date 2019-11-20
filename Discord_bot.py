@@ -1,8 +1,12 @@
-# Work with Python 3.6
+"""
+Discord bot
+Riot API Link: https://developer.riotgames.com/
+Discord Dev portal: https://discordapp.com/developers/applications/646587198422122496/bots
+Useful discord reference: https://discordpy.readthedocs.io/en/latest/migrating.html#migrating-1-0-sending-messages
+"""
 import discord
 
 TOKEN = 'TOKEN'
-
 client = discord.Client()
 
 @client.event
