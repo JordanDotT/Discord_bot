@@ -6,4 +6,3 @@ There are no defined features as of now but I plan on calling Riot Games API to 
 Update: 1/11/2020
 Added a level retriever to the bot.
 
-Test
